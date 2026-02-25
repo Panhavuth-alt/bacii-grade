@@ -1,5 +1,5 @@
 // BacII Grade System — Service Worker
-const CACHE = 'bacii-v2'; // <-- Changed to v2 to force an update
+const CACHE = 'bacii-v1';
 const ASSETS = [
   './',
   './index.html',
